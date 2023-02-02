@@ -1,5 +1,6 @@
 # WeatherApp
 
+This is just a tutorial project that I am learning from youtube. I am doing this to advance my knowledge on Angular. More projects and tutorials to follow. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
 ## Development server
